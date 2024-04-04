@@ -1,0 +1,4 @@
+Name: gela - Id: 2 - Phone: 543126789 - status: taxi_driver - car_series: prius - car_num: ee-098-ii - car_color: white - service_type: Economy 
+Name: gela - Id: 134 - Phone: 543126784 - status: taxi_driver - car_series: prius - car_num: ee-098-ii - car_color: white - service_type: Economy 
+Name: gela - Id: 23 - Phone: 543126785 - status: taxi_driver - car_series: prius - car_num: ee-098-ii - car_color: white - service_type: Economy 
+Name: vano - Id: 5 - Phone: 543219876 - status: taxi_driver - car_series: prius - car_num: ww-123-hh - car_color: red - service_type: Economy 
